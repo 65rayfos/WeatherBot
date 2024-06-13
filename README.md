@@ -1,5 +1,5 @@
 # WeatherBot
-An app designed to send weather updates via push notification to your device using the Pushover app and API
+An app designed to send weather updates via push notification to your device using the Pushover app and API. The weather updates come from https://openweathermap.org/
 Place WeatherBot-Test.py onto your computer. Update the file's path under main.dart
 Download pushover and create an account.
 Add your device to the account and copy the user apir/group api to the PUSHOVER_USER_KEY variable.
